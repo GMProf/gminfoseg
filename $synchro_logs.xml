@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT_MOBJECT class="SynchroLogger">
+    <version_logger val="1"/>
+    <logs>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/css/bootstrap.min.css"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+            <files val="wa_bootstrap/css/bootstrap.min.44.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/fonts/glyphicons-halflings-regular.eot"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/fonts/glyphicons-halflings-regular.svg"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/fonts/glyphicons-halflings-regular.ttf"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/fonts/glyphicons-halflings-regular.woff"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/fonts/glyphicons-halflings-regular.woff2"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/js/bootstrap.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867535"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_bootstrap/js/jquery.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/css/blueimp-gallery.min.css"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+            <files val="wa_gallery/css/blueimp-gallery.min.44.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/error.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/error.svg"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/loading.gif"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/play-pause.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/play-pause.svg"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/video-play.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/img/video-play.svg"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/js/blueimp-gallery.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_gallery/js/wa_galleries.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_php/waErrorFunction.php"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_php/waStaticFunction.php"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/jquery.qrcode.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/jquery.smooth-scroll.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/jquery.validate.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/parallax.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/wa_bootstrap_util.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/wa_common.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/wa_form.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_general.css"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+            <files val="wa_general.44.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_menu/menu.css"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+            <files val="wa_menu/menu.44.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_menu/wa_menu.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_menu/wa_search.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_to_the_top.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview.tpl"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/css/screen.css"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/btn-download.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/btn-explore.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/collapse.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/desktop.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/favicon.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/loading.gif"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/mobile.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/tablet-h.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/tablet-v.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/view-mobile.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/view-tablet-h.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/view-tablet-v.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/img/wa.png"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/js/jquery.qrcode.min.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="preview_frame/js/preview.js"/>
+            <mod_id val="0"/>
+            <version val="44"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityFileStatic"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="pages/home.xml_index.html_pt"/>
+            <mod_id val="153"/>
+            <version val="61"/>
+            <v_pub val="1655874134"/>
+            <class val="EntityPage"/>
+            <files val="index.html wa_css/pages-home.166.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_cftv2500.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/cftv2500.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/cftv2500.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/cftv2500.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_istock-625135580.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/istock-625135580.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/istock-625135580.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/istock-625135580.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_rede_de_computadores_destaque.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/rede_de_computadores_destaque.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/rede_de_computadores_destaque.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/rede_de_computadores_destaque.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_criar-site.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/criar-site.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/criar-site.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/criar-site.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_cftv.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/cftv.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/cftv.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/cftv.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/th_shutterstock131496734-1000x500.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/thumb/shutterstock131496734-1000x500.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0/shutterstock131496734-1000x500.jpg"/>
+            <mod_id val="24"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/shutterstock131496734-1000x500.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4g3741s0/l4i0n6ly24ekm0"/>
+            <mod_id val="7"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGallery"/>
+            <files val="wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/gal_pt.json wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/gal_pt.html wa_p_albums/p_album_l4g3741s0/l4i0n6ly24ekm0/gallery.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_passos.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/passos.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_santiago.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/santiago.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_ske1.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/ske1.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGallery"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/gal_pt.json wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/gal_pt.html wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/gallery.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_santiago.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/santiago.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_ske1.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/ske1.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_passos.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/passos.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0"/>
+            <mod_id val="7"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGallery"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/gal_pt.json wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/gal_pt.html wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/gallery.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_ske1.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/ske1.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/ske1.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_passos.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/passos.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/passos.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_santiago.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/santiago.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/santiago.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGallery"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/gal_pt.json wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/gal_pt.html wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/gallery.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/waVariables_pt"/>
+            <mod_id val="0"/>
+            <version val="17"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGlobalJsVariables"/>
+            <files val="wa_js/waVariables_pt.js"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_php/waCommon.php"/>
+            <mod_id val="0"/>
+            <version val="20"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGlobalPhp"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="global_style"/>
+            <mod_id val="2"/>
+            <version val="3"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGlobalTextStyle"/>
+            <files val="wa_style_global.16.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="global_webfont"/>
+            <mod_id val="0"/>
+            <version val="16"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityGlobalWebFonts"/>
+            <files val="wa_webfont_global.16.css"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_js/waSearchIndex_pt.js"/>
+            <mod_id val="0"/>
+            <version val="16"/>
+            <v_pub val="1655872385"/>
+            <class val="EntitySearchEngine"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/seguranca.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/alarme.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/designer-de-web.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/webinar.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/redes-de-computadores.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/area-de-trabalho (1).png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/camera-de-seguranca.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/whatsapp_(1).png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/telephone-call.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/1741345-familia-na-praia-no-verao-ferias-gratis-foto.jpg"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/logo escudo lado s fundo.png"/>
+            <mod_id val="1655867528"/>
+            <version val="15"/>
+            <v_pub val="1655867536"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="wa_images/logo escudo lado s fundo_1.png"/>
+            <mod_id val="1655869135"/>
+            <version val="15"/>
+            <v_pub val="1655869146"/>
+            <class val="EntityImage"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_azevedo_20moveis.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/azevedo_20moveis.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_cnec.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/cnec.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_manual-21.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/manual-21.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/th_museu_20historico.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/thumb/museu_20historico.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmgldl0/l4nmghah7aejuo/museu_20historico.jpg"/>
+            <mod_id val="8"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmgldl0/l4nmghah7aejuo/museu_20historico.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_azevedo_20moveis.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/azevedo_20moveis.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_cnec.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/cnec.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_manual-21.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/manual-21.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/th_museu_20historico.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/thumb/museu_20historico.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmii7w0/l4nmii7w7aehg0/museu_20historico.jpg"/>
+            <mod_id val="6"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmii7w0/l4nmii7w7aehg0/museu_20historico.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_azevedo_20moveis.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/azevedo_20moveis.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/azevedo_20moveis.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_manual-21.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/manual-21.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/manual-21.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_cnec.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/cnec.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/cnec.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/th_museu_20historico.jpg"/>
+            <mod_id val="1"/>
+            <version val="15"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryThumbnail"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/thumb/museu_20historico.jpg"/>
+        </OBJECT>
+        <OBJECT class="SynchroLogItem">
+            <key val="p_album_l4nmjr4a0/l4nmjr4a7ae5t4/museu_20historico.jpg"/>
+            <mod_id val="3"/>
+            <version val="17"/>
+            <v_pub val="1655872385"/>
+            <class val="EntityGalleryPhoto"/>
+            <files val="wa_p_albums/p_album_l4nmjr4a0/l4nmjr4a7ae5t4/museu_20historico.jpg"/>
+        </OBJECT>
+    </logs>
+</ROOT_MOBJECT>
